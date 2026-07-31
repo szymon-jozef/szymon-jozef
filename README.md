@@ -1,5 +1,9 @@
-I do random stuff, mostly when I'm bored.
+I don't really know what to put here.
 
-I write random nix flakes for random programs for no reason.
+I like coding stuff, but that's obvious since we're on github.
 
-Cheers :)
+I use nixos and really enjoy it!
+
+I know a little bit of python, cpp, rust and some other languages. You can check what I worked with in my repos.
+
+I really dislike w*ndows.
